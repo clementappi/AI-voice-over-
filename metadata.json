@@ -1,0 +1,6 @@
+{
+  "name": "Chronicle Voice Studio",
+  "description": "Documentary narrator voice studio powered by Gemini 3.8 Flash TTS for investigative technology documentaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
